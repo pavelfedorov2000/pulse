@@ -8,6 +8,7 @@ Pulsometer's one-page online-store:
   - @media
   - @imports
 - BEM-naming of classes
+- bootstrap.reboot.min.scss for css reset
 - Gulp:
   - @@includes
   - autoprefixer
@@ -22,3 +23,4 @@ Pulsometer's one-page online-store:
   - mask for input
   - ajax form submit
   - wow.js
+
