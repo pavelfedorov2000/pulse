@@ -1,7 +1,4 @@
 @media (max-width: 991px) {
-    .container {
-        padding: 0 15px;
-    }
     .title_left {
         font-size: 27px;
     }
@@ -187,9 +184,6 @@
     }
 }
 @media (max-width: 575px) {
-    .container {
-        padding: 0;
-    }
     .title {
         font-size: 20px;
         &_left {

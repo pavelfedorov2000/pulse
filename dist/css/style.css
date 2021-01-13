@@ -493,7 +493,8 @@ li {
 
 .container {
   position: relative;
-  max-width: 950px;
+  max-width: 976px;
+  padding: 0 13px;
   margin: 0 auto;
 }
 
@@ -1379,10 +1380,6 @@ li {
 }
 
 @media (max-width: 991px) {
-  .container {
-    padding: 0 15px;
-  }
-
   .title_left {
     font-size: 27px;
   }
@@ -1617,10 +1614,6 @@ li {
 }
 
 @media (max-width: 575px) {
-  .container {
-    padding: 0;
-  }
-
   .title {
     font-size: 20px;
   }
