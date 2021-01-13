@@ -1,0 +1,39 @@
+.clients {
+    padding-bottom: 71px;
+    &__item {
+        display: flex;
+        align-items: flex-start;
+        margin-top: 50px;
+        &:first-child {
+            margin-top: 70px;
+        }
+    }
+    hr {
+        border-bottom: none;
+        margin: 50px auto;
+        width: 940px;
+        background-color: #f6f6f6;
+    }
+    &__img {
+        max-width: 100%;
+        height: auto;
+        margin-right: 60px;
+    }
+    &__name {
+        color: #0d0d0d;
+        font-size: 18px;
+        font-weight: 700;
+    }
+    span {
+        color: #646464;
+        font-size: 14px;
+        font-weight: 300;
+        margin-top: 12px;
+    }
+    &__review {
+        color: #0d0d0d;
+        font-size: 16px;
+        font-weight: 300;
+        margin-top: 20px;
+    }
+}
